@@ -9,5 +9,3 @@ Relevant publications:
 Asher, E. C., J. W. H. Dacey, T. Jarniková, and P. D. Tortell. 2015. Measurement of DMS, DMSO, and DMSP in natural waters by automated sequential chemical analysis. Limnology and Oceanography: Methods 13: 451–462. doi:10.1002/lom3.10039.
 
 McCulloch, R., and P. Tortell. 2023. The determination of dimethyl sulfoxide in natural waters using electrochemical reduction. Limnology and Oceanography: Methods n/a. doi:10.1002/lom3.10562
-
-![Screenshot 2023-07-22 170552](https://github.com/bjmcnabb/OSSCAR/assets/68400556/d41ade21-3763-435b-8491-3dcde92fdcc4)
