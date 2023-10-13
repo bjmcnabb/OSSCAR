@@ -196,6 +196,15 @@
 				<Item Name="Write Delimited Spreadsheet.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet.vi"/>
 				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
 			</Item>
+			<Item Name="DMS_main_VI_BM.vi" Type="VI" URL="../DMS_main_VI_BM.vi"/>
+			<Item Name="DMSO_EC_main_glass_cell_BM.vi" Type="VI" URL="../DMSO_EC_main_glass_cell_BM.vi"/>
+			<Item Name="DMSP_main_VI_BM.vi" Type="VI" URL="../DMSP_main_VI_BM.vi"/>
+			<Item Name="OSSCAR_stop_global_BM.vi" Type="VI" URL="../../SubVIs/OSSCAR_stop_global_BM.vi"/>
+			<Item Name="OSSCAR_toolbox_BM.vi" Type="VI" URL="../../SubVIs/OSSCAR_toolbox_BM.vi"/>
+			<Item Name="Plot_trap_heating_global_BM.vi" Type="VI" URL="../../SubVIs/Plot_trap_heating_global_BM.vi"/>
+			<Item Name="Sparger_syringe_rinsing_subVI_BM.vi" Type="VI" URL="../../SubVIs/DMS-related/Sparger_syringe_rinsing_subVI_BM.vi"/>
+			<Item Name="Std_dilution_SubVI_BM.vi" Type="VI" URL="../../SubVIs/DMS-related/Std_dilution_SubVI_BM.vi"/>
+			<Item Name="Temp_global_BM.vi" Type="VI" URL="../../SubVIs/DMSO-related/Temp_global_BM.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
